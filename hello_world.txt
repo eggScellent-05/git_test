@@ -1,1 +1,1 @@
-"Hello World" might be the first code of any beginner.
+"Hello World" is gonna be the first program of any beginner.
